@@ -152,6 +152,10 @@ Toujours montrer et attendre validation à ces étapes (ne pas les sauter) :
 
 ## Git et dépôt public
 
+- Compte GitHub du projet : **MathieuGasnier-Git**
+  (https://github.com/MathieuGasnier-Git/agent-cv). Auteur des commits :
+  `Mathieu Gasnier <117763734+MathieuGasnier-Git@users.noreply.github.com>`
+  (config git globale). Ne jamais utiliser l'ancien compte MathieuGsn.
 - Le dépôt est **public** sur GitHub : aucune donnée perso ne doit y entrer.
   Le `.gitignore` exclut `data/master_cv.yaml`, `data/notes_rapport_stage.md`,
   `data/candidatures.db`, `offres/`, `sources/`, `output/`, `mails/`, les
